@@ -1,0 +1,15 @@
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekcia4_vvedvprog\Example013_1__Faktorial\bin\Debug\net6.0\Example013_1__Faktorial.exe
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekcia4_vvedvprog\Example013_1__Faktorial\bin\Debug\net6.0\Example013_1__Faktorial.deps.json
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekcia4_vvedvprog\Example013_1__Faktorial\bin\Debug\net6.0\Example013_1__Faktorial.runtimeconfig.json
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekcia4_vvedvprog\Example013_1__Faktorial\bin\Debug\net6.0\Example013_1__Faktorial.dll
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekcia4_vvedvprog\Example013_1__Faktorial\bin\Debug\net6.0\Example013_1__Faktorial.pdb
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekcia4_vvedvprog\Example013_1__Faktorial\obj\Debug\net6.0\Example013_1__Faktorial.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekcia4_vvedvprog\Example013_1__Faktorial\obj\Debug\net6.0\Example013_1__Faktorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekcia4_vvedvprog\Example013_1__Faktorial\obj\Debug\net6.0\Example013_1__Faktorial.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekcia4_vvedvprog\Example013_1__Faktorial\obj\Debug\net6.0\Example013_1__Faktorial.AssemblyInfo.cs
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekcia4_vvedvprog\Example013_1__Faktorial\obj\Debug\net6.0\Example013_1__Faktorial.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekcia4_vvedvprog\Example013_1__Faktorial\obj\Debug\net6.0\Example013_1__Faktorial.dll
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekcia4_vvedvprog\Example013_1__Faktorial\obj\Debug\net6.0\refint\Example013_1__Faktorial.dll
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekcia4_vvedvprog\Example013_1__Faktorial\obj\Debug\net6.0\Example013_1__Faktorial.pdb
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekcia4_vvedvprog\Example013_1__Faktorial\obj\Debug\net6.0\Example013_1__Faktorial.genruntimeconfig.cache
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekcia4_vvedvprog\Example013_1__Faktorial\obj\Debug\net6.0\ref\Example013_1__Faktorial.dll
